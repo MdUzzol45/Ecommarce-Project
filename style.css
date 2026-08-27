@@ -1,0 +1,62 @@
+
+
+
+.body{
+    background-color: rgba(182, 195, 201, 0.907);
+}
+.image img{
+    height: 400px;
+    width: 97.6%;
+    border-radius: 3%;
+}
+
+/* nav ber */
+.nav-item .nav-link{
+    color: #f50505fe;
+    border-radius: 10px;
+    transition: .4s ease;
+
+}
+.nav-item .nav-link:hover {
+    color: #ca0505;
+    background-color: aquamarine;
+
+
+}
+
+.dropdown-menu .dropdown-item{
+    border-radius: 10px;
+    transition: .4s ease;
+
+}
+
+.dropdown-menu .dropdown-item:hover{
+    color: black    ;
+    background-color: rgb(173, 179, 174);
+
+
+}
+.card {
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.card img {
+    transition: 0.4s;
+    display: block;
+}
+
+.card:hover img {
+    background: gray;
+    transform: scale(1.1);
+    display: block;
+}
+
+.nav-item1 :hover  {
+
+background: gray;
+border-radius: 5px;
+transform: scale(1.1);;
+}
+
+
